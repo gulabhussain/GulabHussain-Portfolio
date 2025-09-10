@@ -23,7 +23,7 @@ Personal portfolio website showcasing my projects, skills, and contact details. 
 ---
 
 ## 📸 Screenshots
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot-Portfolio.png)
 
 
 
